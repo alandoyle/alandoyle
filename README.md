@@ -1,4 +1,4 @@
-## My name is Alan Doyle 🇮🇪
+## My name is Alan Doyle (🇮🇪)
 
 No, not this [Alan Doyle](https://alandoyle.ca). He can sing, I definitely can’t!
 
