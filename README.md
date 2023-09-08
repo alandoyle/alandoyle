@@ -18,7 +18,7 @@ I’m not afraid to try other languages too and have been known to dabble in Pyt
 
 I’ve written software for various flavours of Linux, as well as AmigaOS 1.x+, AIX 4.3+, SCO 4.2+ and all versions of Windows and DOS.
 
-Here on Github you'll find my Windows, Linux and, hopefuly, my Amiga projects as I get time to clean them up and make them available.
+Here on Github you'll find my Windows, Linux and, hopefully, my Amiga projects too as I get time to clean them up and make them available.
 
 
   
