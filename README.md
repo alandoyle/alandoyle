@@ -2,7 +2,7 @@
 
 No, not this [Alan Doyle](https://alandoyle.ca). He can sing, I definitely can’t!
 
-First, and foremost, I’m a father to 2 beautiful daughters. I’m an Irish (Dublin born) Software Developer currently living in Birmingham, England. I hope to return to Ireland permenantly one day soon.
+First, and foremost, I’m a father to 2 beautiful daughters. I’m an Irish (Dublin born) Software Developer currently living in Birmingham, England, although I hope to return to Ireland permenantly one day soon.
 
 I’ve been a Software Developer for over 25 years now, initially working on embedded systems but currently writing cross-platform software to run on AIX, Linux, Open Server and Windows from a single common codebase for the Motor Trade.
 
